@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gotcha</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tirrage">Tirrage au sort</string>
+    <string name="roulette">Roulette</string>
+    <string name="settings">Settings</string>
+</resources>
